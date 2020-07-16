@@ -1,3 +1,4 @@
+<?php
 $API_URL = 'https://api.line.me/v2/bot/message';
 //###### Token Line Bot Register ######//
 $accessToken = "P0gU2mHk3dX8RVqVB+aUlSmUtuMtmuEuE8wWIldCIQyDuSyXnvaPN1Gtb891YQiTJAYSOcBB2wS3zT7eBxNO899e4ICjeCXHF8MxoJoOXenjetR8rHGQtNVXerfoFCnj/AXidTuRir+KetsXg4Fs4gdB04t89/1O/w1cDnyilFU=";//copy Channel access token ตอนที่ตั้งค่ามาใส่
